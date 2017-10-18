@@ -1,2 +1,1 @@
-# hoc-git-1
-Hoa-git
+"#huong dan hoc Git co ban 1" 
